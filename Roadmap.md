@@ -15,10 +15,10 @@
 - [ ]  <span style="color:green">(Backend)</span> Implementazione delle rotte API per le funzionalità di registrazione e aggiunta di appartamenti
 
 ## Task 3: Implementazione Frontend (Vue.js)
-- [ ]  <span style="color:blue">(Frontend)</span> Configurazione dell'ambiente di sviluppo Vue.js
+- [x]  <span style="color:blue">(Frontend)</span> Configurazione dell'ambiente di sviluppo Vue.js
 - [ ]  <span style="color:blue">(Frontend)</span> Creazione dei componenti Vue per le pagine e le funzionalità dell'interfaccia utente
 
-- Decisioni e modifiche stilistiche:
+- Decisioni e modifiche stilistiche: (vedi [[Layout]])
   - Definizione e implementazione dello stile CSS
   - Progettazione e sviluppo dell'interfaccia utente (UX/UI)
   
