@@ -2,6 +2,7 @@
   Decide quali elementi saranno presenti su ogni pagina e come saranno organizzati. Ad esempio, una pagina di login potrebbe includere campi per l'email e la password, un pulsante per accedere, e magari un link per registrarsi o recuperare la password.
 
 ![[BoolBNB Wireframe Flow.pdf]]
+
 #### Main_Layout
 - header
 - routerview
