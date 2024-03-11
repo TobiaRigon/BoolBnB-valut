@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diagramma BoolBnB.md",
+                "file": "Layout.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diagramma BoolBnB.md",
+                "file": "Layout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diagramma BoolBnB.md",
+                "file": "Layout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diagramma BoolBnB.md"
+                "file": "Layout.md"
               }
             }
           }
@@ -148,9 +148,21 @@
   },
   "active": "2d1138bf9bfd6e43",
   "lastOpenFiles": [
-    "BoolBnB_db_ER.drawio-1.pdf",
+    "Migrations.md",
+    "PDF/BoolBnB_db_ER.drawio-1.pdf",
+    "Layout.md",
     "References.md",
+    "PDF/Consigli del CTO 1.pdf",
+    "PDF/BoolBnB Brief 1.pdf",
+    "PDF/BoolBNB Wireframe Flow 1.pdf",
+    "Welcome.md",
     "Roadmap.md",
+    "PDF/BoolBNB Wireframe Flow.pdf",
+    "PDF/Ultimo miglio didattica + CS.pdf",
+    "PDF/Consigli del CTO.pdf",
+    "PDF/BoolBnB Brief.pdf",
+    "PDF",
+    "Ultimo miglio didattica + CS.pdf",
     "Diagramma BoolBnB.md"
   ]
 }
