@@ -2,13 +2,16 @@
 # Suddivisione del Lavoro - BoolBnB
 
 ##  Task 1: Progettazione iniziale e Struttura del Database
-- [ ] <span style="color:purple">(Frontend/Backend)</span> Analisi dei requisiti e definizione della struttura del database
-- [ ] <span style="color:purple">(Frontend/Backend)</span> Creazione del [[Diagramma BoolBnB]] e delle tabelle del database
-- [ ] Definizione delle relazioni tra le tabelle e dei vincoli di integrità referenziale 
+- [x] <span style="color:purple">(Frontend/Backend)</span> Analisi dei requisiti e definizione della struttura del database
+- [x] <span style="color:purple">(Frontend/Backend)</span> Creazione del [[Diagramma BoolBnB]] e delle tabelle del database
+- [x] Definizione delle relazioni tra le tabelle e dei vincoli di integrità referenziale 
 
 ## Task 2: Implementazione Backend (Laravel)
-- [ ]  <span style="color:green">(Backend)</span> Configurazione dell'ambiente di sviluppo [[Laravel]] 
+- [x]  <span style="color:green">(Backend)</span> Configurazione dell'ambiente di sviluppo [[Laravel]] 
 - [ ]  <span style="color:green">(Backend)</span> Creazione dei modelli [[Eloquent]] e delle migrazioni per le tabelle del database
+ - Creazione tabelle 
+ - Collegamenti tabelle
+ - Faker 
 - [ ]  <span style="color:green">(Backend)</span> Implementazione delle rotte API per le funzionalità di registrazione e aggiunta di appartamenti
 
 ## Task 3: Implementazione Frontend (Vue.js)
