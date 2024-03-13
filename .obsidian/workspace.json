@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diagramma BoolBnB.md",
+                "file": "TO DO.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diagramma BoolBnB.md",
+                "file": "TO DO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diagramma BoolBnB.md",
+                "file": "TO DO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diagramma BoolBnB.md"
+                "file": "TO DO.md"
               }
             }
           }
@@ -174,8 +174,9 @@
   "active": "fc742ee89b4d6ac1",
   "lastOpenFiles": [
     "PDF/BoolBnB_db_ER_Reworked_2.drawio.pdf",
-    "PDF/BoolBnB_db_ER_reworked.drawio.pdf",
     "TO DO.md",
+    "Diagramma BoolBnB.md",
+    "PDF/BoolBnB_db_ER_reworked.drawio.pdf",
     "Migrations.md",
     "Career Service/Rework Career Service.md",
     "Career Service/Rework Career Service 1.md",
@@ -184,7 +185,6 @@
     "Career Service/create a link.md",
     "Career Service/Welcome.md",
     "Career Service",
-    "Diagramma BoolBnB.md",
     "Welcome.md",
     "Layout.md",
     "PDF/BoolBNB Wireframe Flow.pdf",
@@ -196,7 +196,6 @@
     "PDF/Consigli del CTO.pdf",
     "PDF/BoolBnB_db_ER.drawio-1.pdf",
     "PDF/BoolBnB Brief.pdf",
-    "PDF/Consigli del CTO 1.pdf",
-    "PDF/BoolBnB Brief 1.pdf"
+    "PDF/Consigli del CTO 1.pdf"
   ]
 }
