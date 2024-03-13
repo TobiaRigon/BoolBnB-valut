@@ -11,6 +11,7 @@
 #### Pagine/routerview
 - Home
 - Advanced Search
+- Apartments (filtered)
 -  Apartment
 - Success Send
 - Sign in - Login
@@ -34,10 +35,13 @@ Pianifica come gli utenti potranno navigare attraverso il sito o l'applicazione.
     
 ## Griglia e allineamento:
 Utilizza una griglia per organizzare i contenuti in modo uniforme e allinea gli elementi per garantire una presentazione coerente e professionale.
+
+- Bootstrap
     
 ## Responsive design:
 Assicurati che il layout sia adattabile a diverse dimensioni di schermo, in modo che il tuo progetto sia fruibile su dispositivi desktop, tablet e smartphone.
-    
+
+- Mobile First
 ## Accessibilità:
 Considera come rendere il layout accessibile a tutti gli utenti, inclusi quelli con disabilità visive o motorie. Ad esempio, utilizza testo alternativo per le immagini e assicurati che il sito sia navigabile anche con la tastiera.
     

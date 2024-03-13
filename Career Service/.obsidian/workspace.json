@@ -1,38 +1,14 @@
 {
   "main": {
-    "id": "4db29f2362fdce84",
+    "id": "61fc90a47fc049a0",
     "type": "split",
     "children": [
       {
-        "id": "c059c1269014114b",
+        "id": "fb3e33758af4d98e",
         "type": "tabs",
         "children": [
           {
-            "id": "2d1138bf9bfd6e43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Migrations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc742ee89b4d6ac1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diagramma BoolBnB.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "610f45f44bb9411f",
+            "id": "dbbfcb6bfea2cf75",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,22 +19,39 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "c8c4a6aff87069ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "961040256b95fc87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rework Career Service.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "3630ff5adfa4a577",
+    "id": "e9198415d78dcf5f",
     "type": "split",
     "children": [
       {
-        "id": "3e7ef8e915227009",
+        "id": "102284db204c6d10",
         "type": "tabs",
         "children": [
           {
-            "id": "c8c490eafb29abd8",
+            "id": "e9fde7f35691ebba",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,12 +61,12 @@
             }
           },
           {
-            "id": "6f49e05a19392a62",
+            "id": "3003026c2f3c3119",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"PDF/\" ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +76,7 @@
             }
           },
           {
-            "id": "2c93f0b4fcae7a78",
+            "id": "5cf0f87126de925d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -94,23 +87,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 300
   },
   "right": {
-    "id": "4893806a72aecbf6",
+    "id": "d626549c8c0cbd40",
     "type": "split",
     "children": [
       {
-        "id": "ebd5ed7319f14ffb",
+        "id": "75e5916a568e612d",
         "type": "tabs",
         "children": [
           {
-            "id": "a8af5cdbfa9bb3a6",
+            "id": "f17ace5bb01c8620",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diagramma BoolBnB.md",
+                "file": "Rework Career Service.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,19 +115,19 @@
             }
           },
           {
-            "id": "bc87f684a0b242c2",
+            "id": "2deec2667b38d7cc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diagramma BoolBnB.md",
+                "file": "Rework Career Service.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4a5b72e8a2877d58",
+            "id": "7fcd7435960de0c9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,12 +138,12 @@
             }
           },
           {
-            "id": "8d1282d498d7a259",
+            "id": "a866ec2968c9b059",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diagramma BoolBnB.md"
+                "file": "Rework Career Service.md"
               }
             }
           }
@@ -171,32 +164,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc742ee89b4d6ac1",
+  "active": "961040256b95fc87",
   "lastOpenFiles": [
-    "PDF/BoolBnB_db_ER_Reworked_2.drawio.pdf",
-    "PDF/BoolBnB_db_ER_reworked.drawio.pdf",
-    "TO DO.md",
-    "Migrations.md",
-    "Career Service/Rework Career Service.md",
-    "Career Service/Rework Career Service 1.md",
-    "Career Service/CV LINKEDIN.md",
-    "Career Service/CV.md",
-    "Career Service/create a link.md",
-    "Career Service/Welcome.md",
-    "Career Service",
-    "Diagramma BoolBnB.md",
-    "Welcome.md",
-    "Layout.md",
-    "PDF/BoolBNB Wireframe Flow.pdf",
-    "PDF/Cattura.PNG",
-    "Roadmap.md",
-    "PDF/Ultimo miglio didattica + CS 1.pdf",
-    "PDF/Ultimo miglio didattica + CS 2.pdf",
-    "conflict-files-obsidian-git.md",
-    "PDF/Consigli del CTO.pdf",
-    "PDF/BoolBnB_db_ER.drawio-1.pdf",
-    "PDF/BoolBnB Brief.pdf",
-    "PDF/Consigli del CTO 1.pdf",
-    "PDF/BoolBnB Brief 1.pdf"
+    "Rework Career Service.md",
+    "Welcome.md"
   ]
 }
