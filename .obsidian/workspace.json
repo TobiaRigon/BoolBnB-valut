@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TO DO.md",
+                "file": "Roadmap.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "TO DO.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 200
   },
   "right": {
     "id": "4893806a72aecbf6",
@@ -171,16 +171,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc742ee89b4d6ac1",
+  "active": "610f45f44bb9411f",
   "lastOpenFiles": [
-    "PDF/Consigli del CTO.pdf",
+    "Migrations.md",
+    "Welcome.md",
+    "Roadmap.md",
     "TO DO.md",
+    "PDF/Consigli del CTO.pdf",
     "Layout.md",
     "PDF/BoolBnB_db_ER_reworked_3.drawio.pdf",
     "PDF/BoolBnB_db_ER_Reworked_2.drawio.pdf",
     "Diagramma BoolBnB.md",
     "PDF/BoolBnB_db_ER_reworked.drawio.pdf",
-    "Migrations.md",
     "Career Service/Rework Career Service.md",
     "Career Service/Rework Career Service 1.md",
     "Career Service/CV LINKEDIN.md",
@@ -188,10 +190,8 @@
     "Career Service/create a link.md",
     "Career Service/Welcome.md",
     "Career Service",
-    "Welcome.md",
     "PDF/BoolBNB Wireframe Flow.pdf",
     "PDF/Cattura.PNG",
-    "Roadmap.md",
     "PDF/Ultimo miglio didattica + CS 1.pdf",
     "PDF/Ultimo miglio didattica + CS 2.pdf",
     "conflict-files-obsidian-git.md",
