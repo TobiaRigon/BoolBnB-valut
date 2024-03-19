@@ -29,9 +29,9 @@
 - [x] apartment in front-end
 - [x] Show in VUE
 - [x] 2. Fix Style cards (height)
-- [ ] ==3. Ricerca base==
+- [x] ==3. Ricerca base==
  - Ricerca con redirect a apartments filtrati
-- [ ] ==3. home base con ricerca.==
+- [x] ==3. home base con ricerca.==
  - home con sezione ricerca 
  - sezione appartamenti sponsorizzati(vuota o placeholder)
 - [x] 2. Pagina apartments singola
@@ -41,19 +41,46 @@
 - [x] 2. Appartamenti personali in Dashboard con Edit e Delete
 - [x] 2. Immagini in CRUD
  _Assicurati che le immagini vengano caricate correttamente in edit e create_
-- [ ] 1. Immagini in Edit Form
+- [x] 1. Immagini in Edit Form
 - [x] 1. soft delete 
 - [x] 1. Paginazione contenuti
-- [ ] Fix Edit
-- [ ]   sistema show
+- [x] Fix Edit
+- [x]   sistema show
  - la show dev essere in vue!
  - style show view
 - [ ] 1. Login/Dashboard
  - se loggato mostra dashboard se sloggato login
  - come passare info loggato a vue??API?
  - sistema show
- - 
+- [x] pagination in home
+
  
 
 
+
+
+
+## Per Venerdì
+
+- [ ] 1. Login/Dashboard
+ - se loggato mostra dashboard se sloggato login
+ - come passare info loggato a vue??API?
+ - sistema show
+- [ ] messaggio di conferma delete
+- [ ] validazione frontend create e edit
+- [ ] ricarica vecchi dati in create se sbagli le validazioni
+ - [ ] ricerca su tutte le cttà. no milano/roma
+ - [ ] rimuovi tasto nuovo appartamento da Apartments vue
+ - [ ] home(welcome)+form
+ - [ ] pagina risultati ricerca con ricerca avanzata(apartmentsApi.vue)
+  - raggio default 20km disctanza
+ - [ ] sostituire id appartamento url con nome appartamento
+ - [ ] sponsorizzazioni
+  - pagamento dropin UI
+  - sponsorizzazioni multiple
+- [ ] form messaggio in show
+- [ ] messaggi in dashbooard
+- [ ] dettagli messaggio 
+- [ ] immagine coperina in form edit e create correggi
+- [ ] 
 
