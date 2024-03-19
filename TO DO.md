@@ -80,8 +80,11 @@
  - [ ] sponsorizzazioni
   - pagamento dropin UI
   - sponsorizzazioni multiple
-- [ ] form messaggio in show ( Giacomo)
+- [ ] form messaggio in show ( Dome)
+ - invia un messaggio in db
+ - mostra un messaggio di invio riuscito
 - [ ] messaggi in dashbooard(Giacomo)
+- recupera messaggi dal db
 - [ ] dettagli messaggio (Giacomo)
 - [x] immagine coperina in form edit e create correggi
 - [ ] messaggi errore login in italiano
