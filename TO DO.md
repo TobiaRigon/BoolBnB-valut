@@ -66,12 +66,13 @@
  - se loggato mostra dashboard se sloggato login
  - come passare info loggato a vue??API?
  - sistema show
-- [ ] messaggio di conferma delete
+- [ ] messaggio di conferma delete 
+- [ ] layout dashboard
 - [ ] validazione frontend create e edit
 - [ ] ricarica vecchi dati in create se sbagli le validazioni
- - [ ] ricerca su tutte le cttà. no milano/roma
- - [ ] rimuovi tasto nuovo appartamento da Apartments vue
- - [ ] home(welcome)+form
+- [ ] ricerca su tutte le cttà. no milano/roma
+- [x] rimuovi tasto nuovo appartamento da Apartments vue
+- [ ] home(welcome)+form
  - [ ] pagina risultati ricerca con ricerca avanzata(apartmentsApi.vue)
   - raggio default 20km disctanza
  - [ ] sostituire id appartamento url con nome appartamento
@@ -81,6 +82,9 @@
 - [ ] form messaggio in show
 - [ ] messaggi in dashbooard
 - [ ] dettagli messaggio 
-- [ ] immagine coperina in form edit e create correggi
-- [ ] 
+- [x] immagine coperina in form edit e create correggi
+- [ ] messaggi errore login in italiano
+- [ ] validazioni frontend login
+
+
 
