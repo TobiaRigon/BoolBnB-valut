@@ -68,10 +68,11 @@
  - sistema show
 - [x] messaggio di conferma delete ( Tobia )
 - [ ] layout dashboard
-- [ ] singin in registrati
+- [x] singin in registrati
+- [x] validazioni in italiano per login e singin
 - [ ] validazione frontend create e edit (Filippo)
 - [ ] ricarica vecchi dati in create se sbagli le validazioni (Filippo)
-- [x] ricerca su tutte le cttà. no milano/roma
+- [ ] ricarica vecchi dati in create se sbagli le validazioni  in login e register
 - [x] rimuovi tasto nuovo appartamento da Apartments vue
 - [x] card selezionabile invece che tasto view ( Tobia )
 - [ ] home(welcome)+form
