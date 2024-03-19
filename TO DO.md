@@ -60,7 +60,7 @@
 
 
 
-## Per Venerdì
+## Per Venerdì 22
 
 - [ ] 1. Login/Dashboard
  - se loggato mostra dashboard se sloggato login
@@ -70,8 +70,9 @@
 - [ ] layout dashboard
 - [ ] validazione frontend create e edit
 - [ ] ricarica vecchi dati in create se sbagli le validazioni
-- [ ] ricerca su tutte le cttà. no milano/roma
+- [x] ricerca su tutte le cttà. no milano/roma
 - [x] rimuovi tasto nuovo appartamento da Apartments vue
+- [ ] card selezionabile invece che tasto view
 - [ ] home(welcome)+form
  - [ ] pagina risultati ricerca con ricerca avanzata(apartmentsApi.vue)
   - raggio default 20km disctanza
