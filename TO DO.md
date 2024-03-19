@@ -76,21 +76,21 @@
 - [x] rimuovi tasto nuovo appartamento da Apartments vue
 - [x] card selezionabile invece che tasto view ( Tobia )
 - [ ] home(welcome)+form
- - [ ] pagina risultati ricerca con ricerca avanzata(apartmentsApi.vue)
+- [x] pagina risultati ricerca con ricerca avanzata(apartmentsApi.vue)
   - raggio default 20km disctanza(Gabriele)
- - [ ] sostituire id appartamento url con nome appartamento
- - [ ] sponsorizzazioni
+- [ ] sostituire id appartamento url con nome appartamento
+- [ ] sponsorizzazioni
   - pagamento dropin UI
   - sponsorizzazioni multiple
 - [ ] form messaggio in show ( Dome)
- - invia un messaggio in db
- - mostra un messaggio di invio riuscito
+  - invia un messaggio in db
+  - mostra un messaggio di invio riuscito
 - [ ] messaggi in dashbooard(Dome)
-- recupera messaggi dal db
+  - recupera messaggi dal db
 - [ ] dettagli messaggio (Giacomo)
 - [x] immagine coperina in form edit e create correggi
 - [ ] messaggi errore login in italiano
-- [ ] validazioni frontend login
+- [ ] validazioni frontend login register 
 
 
 
