@@ -66,13 +66,14 @@
  - se loggato mostra dashboard se sloggato login
  - come passare info loggato a vue??API?
  - sistema show
-- [ ] messaggio di conferma delete ( Tobia )
+- [x] messaggio di conferma delete ( Tobia )
 - [ ] layout dashboard
+- [ ] singin in registrati
 - [ ] validazione frontend create e edit (Filippo)
 - [ ] ricarica vecchi dati in create se sbagli le validazioni (Filippo)
 - [x] ricerca su tutte le cttà. no milano/roma
 - [x] rimuovi tasto nuovo appartamento da Apartments vue
-- [ ] card selezionabile invece che tasto view ( Tobia )
+- [x] card selezionabile invece che tasto view ( Tobia )
 - [ ] home(welcome)+form
  - [ ] pagina risultati ricerca con ricerca avanzata(apartmentsApi.vue)
   - raggio default 20km disctanza(Gabriele)
@@ -83,7 +84,7 @@
 - [ ] form messaggio in show ( Dome)
  - invia un messaggio in db
  - mostra un messaggio di invio riuscito
-- [ ] messaggi in dashbooard(Giacomo)
+- [ ] messaggi in dashbooard(Dome)
 - recupera messaggi dal db
 - [ ] dettagli messaggio (Giacomo)
 - [x] immagine coperina in form edit e create correggi
