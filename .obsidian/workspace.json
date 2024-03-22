@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roadmap.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4893806a72aecbf6",
@@ -173,10 +174,10 @@
   },
   "active": "610f45f44bb9411f",
   "lastOpenFiles": [
-    "Migrations.md",
     "Welcome.md",
     "Roadmap.md",
     "TO DO.md",
+    "Migrations.md",
     "PDF/Consigli del CTO.pdf",
     "Layout.md",
     "PDF/BoolBnB_db_ER_reworked_3.drawio.pdf",

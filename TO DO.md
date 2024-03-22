@@ -67,30 +67,60 @@
  - come passare info loggato a vue??API?
  - sistema show
 - [x] messaggio di conferma delete ( Tobia )
-- [ ] layout dashboard
+- [x] layout dashboard
 - [x] singin in registrati
 - [x] validazioni in italiano per login e singin
-- [ ] validazione frontend create e edit (Filippo)
-- [ ] ricarica vecchi dati in create se sbagli le validazioni (Filippo)
-- [ ] ricarica vecchi dati in create se sbagli le validazioni  in login e register
+- [x] validazione frontend create e edit (Filippo)
+- [x] ricarica vecchi dati in create se sbagli le validazioni (Filippo)
+- [x] ricarica vecchi dati in create se sbagli le validazioni  in login e register
 - [x] rimuovi tasto nuovo appartamento da Apartments vue
 - [x] card selezionabile invece che tasto view ( Tobia )
-- [ ] home(welcome)+form
-- [x] pagina risultati ricerca con ricerca avanzata(apartmentsApi.vue)
+- [x] home(welcome)+form
+- [ ] pagina risultati ricerca con ricerca avanzata(apartmentsApi.vue)
   - raggio default 20km disctanza(Gabriele)
-- [ ] sostituire id appartamento url con nome appartamento
-- [ ] sponsorizzazioni
+- [x] sostituire id appartamento url con nome appartamento
+- [x] pagamenti sponsor
+- [x] gestisci sponsor multiple
+- [x] sponsorizzazioni
   - pagamento dropin UI
   - sponsorizzazioni multiple
-- [ ] form messaggio in show ( Dome)
+- [x] form messaggio in show 
   - invia un messaggio in db
   - mostra un messaggio di invio riuscito
-- [ ] messaggi in dashbooard(Dome)
+- [x] messaggi in dashbooard(Dome)
   - recupera messaggi dal db
-- [ ] dettagli messaggio (Giacomo)
+- [x] dettagli messaggio (Giacomo)
 - [x] immagine coperina in form edit e create correggi
-- [ ] messaggi errore login in italiano
-- [ ] validazioni frontend login register 
+- [x] validazioni frontend login register
+- [x] sponsor con 0 appartamenti?
+- [ ] collegamento appartamenti search vuota
+- [ ] search vuota. vedi tutti gli appartamenti e prima gli sponsorizzati
+- [x] home banner
+- [ ] sponsorizzati evidenziati 
+- [ ] Se nessun risultato ricerca?
+- [ ] sposta barra ricerca in un component.
+- [ ] metti barra ricerca in search
+- [ ] aggiungi filtri
+- [ ] filtri lato API (query speciale coordinate spaziali)
+- [ ] valori dei filtri sulle cards
+- [ ] nume risultati ricerca
+- [ ] paginazione risultati
+- [ ] slag titolo url
+- [ ] conta i messaggi
+- [ ] contenuto messaggi in modale
+- [ ] Titolo + logo vite
+- [ ] data messaggi formattata ita - secondi
+- [ ] nascondi form messaggi dopo l'invio
+- [ ] cambiare data sponsor
+- [ ] messaggio avvenuto pagamento
+- [ ] sponsorizzate on top
+- [ ] indica distanza dal puynto di ricerca
+- [ ] ordina per distanza dal punto di ricerca
+- [ ] 
+- [ ] 
+
+
+
 
 
 
