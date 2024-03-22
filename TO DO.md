@@ -97,14 +97,14 @@
 - [ ] search vuota. vedi tutti gli appartamenti e prima gli sponsorizzati
 - [x] home banner
 - [ ] sponsorizzati evidenziati 
-- [ ] Se nessun risultato ricerca?
-- [ ] sposta barra ricerca in un component.
-- [ ] metti barra ricerca in search
-- [ ] aggiungi filtri
-- [ ] filtri lato API (query speciale coordinate spaziali)
-- [ ] valori dei filtri sulle cards
-- [ ] nume risultati ricerca
-- [ ] paginazione risultati
+- [ ] ==Se nessun risultato ricerca?==
+- [ ] ==sposta barra ricerca in un component.==
+- [ ] ==metti barra ricerca in search==
+- [ ] ==aggiungi filtri==
+- [ ] ==filtri lato API (query speciale coordinate spaziali)==
+- [ ] ==valori dei filtri sulle cards==
+- [ ] ==nume risultati ricerca==
+- [ ] ==paginazione risultati==
 - [ ] slag titolo url
 - [ ] conta i messaggi
 - [ ] contenuto messaggi in modale
@@ -113,11 +113,9 @@
 - [ ] nascondi form messaggi dopo l'invio
 - [ ] cambiare data sponsor
 - [ ] messaggio avvenuto pagamento
-- [ ] sponsorizzate on top
-- [ ] indica distanza dal puynto di ricerca
-- [ ] ordina per distanza dal punto di ricerca
-- [ ] 
-- [ ] 
+- [ ] ==sponsorizzate on top==
+- [ ] ==indica distanza dal puynto di ricerca==
+- [ ] ==ordina per distanza dal punto di ricerca==
 
 
 
