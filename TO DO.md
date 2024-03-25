@@ -108,7 +108,7 @@
 - [ ] slag titolo url
 - [ ] conta i messaggi
 - [ ] contenuto messaggi in modale
-- [ ] Titolo + logo vite
+- [x] Titolo + logo vite
 - [ ] data messaggi formattata ita - secondi
 - [ ] nascondi form messaggi dopo l'invio
 - [ ] cambiare data sponsor
