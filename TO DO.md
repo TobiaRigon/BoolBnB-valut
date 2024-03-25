@@ -76,7 +76,7 @@
 - [x] rimuovi tasto nuovo appartamento da Apartments vue
 - [x] card selezionabile invece che tasto view ( Tobia )
 - [x] home(welcome)+form
-- [ ] pagina risultati ricerca con ricerca avanzata(apartmentsApi.vue)
+- [x] pagina risultati ricerca con ricerca avanzata(apartmentsApi.vue)
   - raggio default 20km disctanza(Gabriele)
 - [x] sostituire id appartamento url con nome appartamento
 - [x] pagamenti sponsor
@@ -93,29 +93,43 @@
 - [x] immagine coperina in form edit e create correggi
 - [x] validazioni frontend login register
 - [x] sponsor con 0 appartamenti?
-- [ ] collegamento appartamenti search vuota
+- [x] collegamento appartamenti search vuota
 - [ ] search vuota. vedi tutti gli appartamenti e prima gli sponsorizzati
 - [x] home banner
-- [ ] sponsorizzati evidenziati 
+- [ ] sponsorizzati evidenziati in search
 - [ ] ==Se nessun risultato ricerca?==
-- [ ] ==sposta barra ricerca in un component.==
-- [ ] ==metti barra ricerca in search==
-- [ ] ==aggiungi filtri==
-- [ ] ==filtri lato API (query speciale coordinate spaziali)==
+- [x] ==sposta barra ricerca in un component.==
+- [x] ==metti barra ricerca in search==
+- [x] ==aggiungi filtri==
+- [x] ==filtri lato API (query speciale coordinate spaziali)==
 - [ ] ==valori dei filtri sulle cards==
-- [ ] ==nume risultati ricerca==
+- [ ] ==numero risultati ricerca==
 - [ ] ==paginazione risultati==
-- [ ] slag titolo url
-- [ ] conta i messaggi
-- [ ] contenuto messaggi in modale
+- [x] slag titolo url
+- [x] conta i messaggi
+- [x] contenuto messaggi in modale
 - [x] Titolo + logo vite
-- [ ] data messaggi formattata ita - secondi
-- [ ] nascondi form messaggi dopo l'invio
-- [ ] cambiare data sponsor
-- [ ] messaggio avvenuto pagamento
+- [x] data messaggi formattata ita - secondi
+- [x] nascondi form messaggi dopo l'invio
+- [x] cambiare data sponsor
+- [x] messaggio avvenuto pagamento
 - [ ] ==sponsorizzate on top==
-- [ ] ==indica distanza dal puynto di ricerca==
-- [ ] ==ordina per distanza dal punto di ricerca==
+- [x] ==indica distanza dal puynto di ricerca==
+- [x] ==ordina per distanza dal punto di ricerca==
+- [ ] Logo in edit
+- [ ] my_btn fix in advanced search
+- [ ] fix url pagina search
+- [ ] Footer credits
+- [ ] Fix CSS Advanced search
+- [ ] Eliminare pagine inutili
+- [ ] Eliminare breanch inutili
+- [ ] Pulizia console
+ 
+- [ ] Pulizia codice
+- [ ] Cards to component
+- [ ] Ricerca in componente
+- [ ] store.js
+
 
 
 
